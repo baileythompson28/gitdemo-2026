@@ -1,1 +1,5 @@
+print("i like cookies")
 print("Hello, here for git practice")
+print("sometimes i think about how dogs are better than cats")
+print("sometimes i realize that studets dont do anything i want them to")
+print("remote end")
